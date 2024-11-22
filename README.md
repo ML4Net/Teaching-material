@@ -108,4 +108,6 @@ We welcome contributions to improve and extend the repository. Please fork the r
 
 ## License
 
+<!-- TODO: check -->
+
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
