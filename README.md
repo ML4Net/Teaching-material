@@ -13,12 +13,11 @@ This repository contains all the materials, labs, projects, and resources for th
 - [Overview](#overview)
 - [Structure](#structure)
 - [Contents](#contents)
-  - [Exams](#exams)
-  - [Labs](#labs)
-  - [Projects](#projects)
   - [Theory](#theory)
   - [Python Exercises](#python-exercises)
-  - [Resources](#resources)
+  - [Labs](#labs)
+  - [Projects](#projects)
+  - [Exams](#exams)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -40,10 +39,21 @@ The repository includes the following directories:
 
 ## Contents
 
-### Exams
+### Theory
 
-- [ML4N_exam_01_2024.pdf](Exams/ML4N_exam_01_2024.pdf): Official exam from 2024.
-- [ML4N_exam_sample_2024.pdf](Exams/ML4N_exam_sample_2024.pdf): Sample exam for practice.
+<!-- TODO: make a list ? -->
+
+A rich collection of lecture slides:
+
+- ML4N Introduction, Data Exploration, Preprocessing, Dimensionality Reduction, Empirical Risk Minimization, and more.
+
+### Python Exercises
+
+<!-- TODO: make a list ? -->
+
+Beginner to advanced Python tutorials and exercises focusing on:
+
+- Python basics, Numpy, Pandas, Matplotlib, and networking-related data visualization.
 
 ### Labs
 
@@ -71,22 +81,10 @@ Explore various networking use cases:
 8. **Reddit** - Social data analysis for networking insights.
 9. **HTTPS Domains** - Classification and analysis of HTTPS domains.
 
-### Theory
+### Exams
 
-A rich collection of lecture slides:
-
-- ML4N Introduction, Data Exploration, Preprocessing, Dimensionality Reduction, Empirical Risk Minimization, and more.
-
-### Python Exercises
-
-Beginner to advanced Python tutorials and exercises focusing on:
-
-- Python basics, Numpy, Pandas, Matplotlib, and networking-related data visualization.
-
-### Resources
-
-- **Logo**: [logo_polito.jpg](resources/logo_polito.jpg)
-- **Submission Templates**: Available for reports and papers.
+- [ML4N_exam_01_2024.pdf](Exams/ML4N_exam_01_2024.pdf): Official exam from 2024.
+- [ML4N_exam_sample_2024.pdf](Exams/ML4N_exam_sample_2024.pdf): Sample exam for practice.
 
 ## Usage
 
