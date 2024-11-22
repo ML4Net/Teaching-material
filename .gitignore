@@ -2,6 +2,14 @@
 .DS_Store
 **/.DS_Store
 
-# Other files
-Project/
+# Project files
+1_RTP_traffic/
+2_DDoS_attacks/
+3_Encrypted_data_collection_classification/
+4_SSH_shell_attacks/
+5_Adversarial_attacks/
+6_YouTube_CDN/
+7_web_services/
+8_Reddit/
+9_HTTPS_domains/
 
