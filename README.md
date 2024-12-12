@@ -57,15 +57,18 @@ Beginner to advanced Python tutorials and exercises focusing on:
 
 ### Labs
 
-| Lab   | Topics Covered                                   |
-|-------|--------------------------------------------------|
-| Lab 1 | Python basics                                    |
-| Lab 2 | Numpy fundamentals                               |
-| Lab 3 | Pandas and Numpy integration                     |
-| Lab 4 | Data visualization and analysis                  |
-| Lab 5 | Networking-specific data analysis                |
-| Lab 6 | Advanced ML applications in networking           |
-| Lab 7 | Video conferencing and RTP data analysis         |
+| Lab    | Topics Covered                                                                  |
+|--------|---------------------------------------------------------------------------------|
+| Lab 1  | Python basics                                                                   |
+| Lab 2  | Numpy fundamentals                                                              |
+| Lab 3  | Pandas and Numpy integration                                                    |
+| Lab 4  | Data visualization and analysis                                                 |
+| Lab 5  | Dimensionality Reduction                                                        |
+| Lab 6  | Implement, use and evaluate a classifier from scratch                           |
+| Lab 7  | Supervised learning: build a basic ML pipeline for classification problem       |
+| Lab 8  | Supervised learning with model selection, validation and hyper-parameter tuning |
+| Lab 9  | Video conferencing and RTP data analysis                                        |
+| Lab 10 | Define and train neural network models using Pytorch                            |
 
 ### Projects
 
