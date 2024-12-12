@@ -30,45 +30,65 @@ The **Machine Learning for Networking** course combines theoretical insights and
 
 The repository includes the following directories:
 
-- `Exams/`: Sample exams for practice.
 - `Info/`: Course rules, timetable, and cluster usage instructions.
+- `Theory/`: Lecture slides and notes covering core ML concepts.
+- `Python/`: Tutorials and exercises to build foundational Python and ML skills.
 - `Labs/`: Practical exercises and solutions covering Python, Numpy, Pandas, and networking-specific applications.
 - `Projects/`: Hands-on projects, datasets, and related documentation.
-- `Python/`: Tutorials and exercises to build foundational Python and ML skills.
-- `Theory/`: Lecture slides and notes covering core ML concepts.
+- `Exams/`: Sample exams for practice.
 
 ## Contents
 
-### Theory
+### Theory Slides
 
-<!-- TODO: make a list ? -->
-
-A rich collection of lecture slides:
-
-- ML4N Introduction, Data Exploration, Preprocessing, Dimensionality Reduction, Empirical Risk Minimization, and more.
+| Slide ID | Topics Covered                                      |
+|----------|-----------------------------------------------------|
+| 1        | Introduction to ML4N                                |
+| 2        | Data Exploration and Visualization                  |
+| 3        | Data Preprocessing                                  |
+| 4        | Dimensionality Reduction                            |
+| 4        | PCA Proof Sketch                                    |
+| 5        | Three Components of Machine Learning                |
+| 6        | Empirical Risk Minimization                         |
+| 7        | Model Validation and Selection                      |
+| 8        | Metrics and Hyperparameter Tuning                   |
+| 9        | Gradient-Based Learning                             |
+| 10       | Supervised Learning Techniques                      |
+| 11       | Clustering                                          |
+| 12       | Neural Networks                                     |
 
 ### Python Exercises
 
-<!-- TODO: make a list ? -->
+| Exercise ID | Topics Covered                                   |
+|-------------|--------------------------------------------------|
+| 1.1         | Python Examples                                  |
+| 1.2         | Python Tuples and Lists                          |
+| 1.3         | Python Dictionaries and Sets                     |
+| 1.4         | Python Lambda Functions, Functions, and Classes  |
+| 1.5         | Python Files and Exceptions                      |
+| 2.1         | Numpy Arrays                                     |
+| 2.2         | Numpy Operations                                 |
+| 2.3         | Numpy Array Manipulation                         |
+| 3.1         | Pandas Series and Dataframes                     |
+| 3.2         | Pandas Grouping                                  |
+| 3.3         | Pandas Operations (Extra)                        |
+| 4.1         | Matplotlib Figures and Axes                      |
+| 4.2         | Matplotlib Advanced Plots                        |
 
-Beginner to advanced Python tutorials and exercises focusing on:
+### Laboratories
 
-- Python basics, Numpy, Pandas, Matplotlib, and networking-related data visualization.
-
-### Labs
-
-| Lab    | Topics Covered                                                                  |
+| Lab ID | Topics Covered                                                                  |
 |--------|---------------------------------------------------------------------------------|
-| Lab 1  | Python basics                                                                   |
-| Lab 2  | Numpy fundamentals                                                              |
-| Lab 3  | Pandas and Numpy integration                                                    |
-| Lab 4  | Data visualization and analysis                                                 |
-| Lab 5  | Dimensionality Reduction                                                        |
-| Lab 6  | Implement, use and evaluate a classifier from scratch                           |
-| Lab 7  | Supervised learning: build a basic ML pipeline for classification problem       |
-| Lab 8  | Supervised learning with model selection, validation and hyper-parameter tuning |
-| Lab 9  | Video conferencing and RTP data analysis                                        |
-| Lab 10 | Define and train neural network models using Pytorch                            |
+| 1      | Python basics                                                                   |
+| 2      | Numpy fundamentals                                                              |
+| 3      | Pandas and Numpy integration                                                    |
+| 4      | Data visualization and analysis                                                 |
+| 5      | Dimensionality Reduction                                                        |
+| 6      | Implement, use and evaluate a classifier from scratch                           |
+| 7      | Supervised learning: build a basic ML pipeline for classification problem       |
+| 8      | Supervised learning with model selection, validation and hyper-parameter tuning |
+| 9      | Video conferencing and RTP data analysis                                        |
+| 10     | Define and train neural network models using Pytorch                            |
 
 ### Projects
 
